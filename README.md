@@ -18,9 +18,6 @@ Discover personalized movie recommendations based on your preferences. Input key
 - Responsive design for all devices.
 - Fast and reliable performance.
 
-## Get Started
-
-Visit our website and start exploring amazing movies tailored to your tastes!
 
 ## About
 
